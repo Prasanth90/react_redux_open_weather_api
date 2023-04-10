@@ -17,3 +17,8 @@ $ node run start
 - Windows
 - Node v12.15.0
 - npm 6.13.7
+
+
+![](Weather_Desktop.JPG)
+
+![](Weather_Mobile_view.JPG)
